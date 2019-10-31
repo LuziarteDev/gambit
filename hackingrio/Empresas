@@ -1,0 +1,85 @@
+Incorporadoras: Tegra, RJZ Cyrela, Performance,
+Imobiliária: BrasilBroken
+
+- Como prever o risco de distrato ou inadimplência entre o lançamento e a entrega do empreendimento?
+    Estatistica de probabilidade:
+        Solução:
+        * Analise do cliente
+            - Autorização de consulta de terceiros (LGPD)
+            - Cidade, bairro, regiao, moda de renda por bairro (Para classificar a classe social);
+            - Questionário Socio Economico;
+            - Monitoria frequente para verificação de status ou de credit score
+            - Sistema cobrará informações de transparêcia ao funcionario entrevistador
+            - Sistema realizará pesquisa de especulação no tempo previsto de construção, ao longo de 2 anos.
+
+    Tecnicas a ser utilizadas:
+        O sistema processará os seguintes dados:
+            Dados básicos:
+            - Certidao  de nascimento {
+                Data de nascimento
+                UF de nascimento
+                Cidade de nascimento
+            }
+            - Certidao de casamento {
+                Nome do conjuge
+            }
+            - Carteira de trabalho {
+                Profissoes{
+                    Cargos, tempo de trabalho, tempo medio entre emprego.
+                    Atuação do emprego em tempo de carreira
+                }
+            }
+            - RG {
+                Nome
+            }
+            - CPF
+            - CNH
+            - Entrevista sócioeconomica {
+                Entrevista onde inclui todos os bens materiais
+            }
+            - Comprovante de residencia {
+                Endereço completo do cliente,
+
+            }
+            - Caráter {
+                Emprestimos anteriores
+                Atuação na praça
+                Existencia de Restrições
+            }
+            - Capacidade {
+                Analise de score
+                habilidade de pagar
+            }
+            - Capital {
+                Potencial de producao monetária
+                Instabilidade do emprego no mercado
+
+            }
+
+            Soluções:
+
+                Core Business - 
+                    
+                    Predição de adimplencia a partir dos dados existentes em um banco de dados utilizando Regressão Logística(Machine Learning e Artificial Intelligence).
+                        - Obs: Antes do cliente efetuar a sua aquisição, faremos uma analise de perfil e auxiliaremos o cliente na sua compra.
+                    Saúde Financeira dos clientes(A partir do histórico do cliente podemos alertar setores responsaveis, e assim, evitar o distrato ou inadimplência).
+                    Proverá informações sobre possiveis clientes com o mesmo tipo de perfil por um possivel lead.
+                    Como recuperamos essas informações: Redes Sociais, Orgão Publico e Bancos, Serasa score.
+                    As informações contidas no sistema auxiliará na tomada de decisão.
+
+
+        O sistema irá iniciar após o cliente fazer o contato mais detalhado com o corretor, onde após ter certeza de sua compra iniciará as etapas do sistema.
+        A partir do momento é iniciado uma entrevista com o registro das informações pedidas pelo sistema, após essa entrevista comentarios do corretor sobre observações a mais são registradas.
+        Após isso o sistema ira coletar as informações e salvar na base de dados, onde irá processar e salvar a massa de dados.
+        O mesmo irá salvar no banco da Machine Learning o cliente com status de espera e guardar todos os dados do seu perfil para salvar um padrao especifico, para dentro desse padrão possibilitar a probabilidade de compra desse perfil.
+        Nesse mesmo momento o próprio sistema irá executar um serviço de Crawler(BOT), onde irá automatizar a pesquisa recursiva dos dados do cliente onde possivel será definido pelo analista dentre eles pesquisas gerais de verificacoes de creditos até áreas de redes sociais caso definido no escopo, onde será aplicado algoritmo de REGEX para encontrar e retornar os dados achados na pesquisa.
+
+        O sistema possuirá uma classificação de prioridades individual e geral de dados, sendo eles:
+
+            - Machine Learning
+                O sistema de Machine Learning irá perpetuar um algoritmo Regressão Logística onde é possível encontrar riscos de uma clientela dado determinado valores, esses valores serão definidos conforme o passar do tempo, a definição de taxa de sucesso dependerá do tempo de aprendizado de máquina, onde o resultado irá apresentar a probabilidade geral de acordo com os perfis de clientes, regra necessária para controle e organização de probabilidade de venda de todos os clientes.
+                
+            - Algoritmo de pesos
+                O sistema de pesos categorizará através do analista pesos para cada item onde montará um sistema de pontuações de cliente, as pontuações definirão a probabilidade individual do cliente de efetuar a total compra do imóvel.
+
+        O sistema no final, mostrará os dados básicos com possibilidade de expansão dos dados gerais com a probabilidade individual e geral gerado pela Machine Learning.

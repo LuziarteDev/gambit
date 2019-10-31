@@ -1,0 +1,83 @@
+Incorporadoras: Tegra, RJZ Cyrela, Performance,
+Imobiliária: BrasilBroken
+
+Tema 1 = - Como construir uma melhor experiência para fidelização dos clientes após a entrega das chaves?
+    detalhes: Necessário amarrar o cliente de forma que vá vender para todos os outros futuros clientes relacionados.
+
+    solucoes:
+        * Lista VIP para clientes para noos empreendimentos, fila de prioridade.
+        * Sistema de bonificação do cliente para pagamentos em dia da mensalidade, onde de meses em meses, é possivel incorporar uma porcentagem.
+        * Patrocinio de empresas
+        * Desconto de custo de condomínio
+        * flexibilidade de troca de imóvel e empreendimentos( obs:"Possibilidade de troca de apartamento com custo a mais, validando assim uma melhor venda e de facil locomoção de quem precisa mudar de imovel frequentemente"  ).
+        * Compra fracionada( Time Sharing no Brasil )
+        obs: Verificar ideia que de retorno, controle de retorno do cliente. 
+        obs: Olhar o que ja tem feito e o que precisa fazer.
+
+Tema 3 = - Como melhorar a gestão dos leads pós captação destes?
+        * Pedir indicações para vendas após um periodo de tempo - Venda organica
+
+Tema 4 = - Como prever o risco de distrato ou inadimplência entre o lançamento e a entrega do empreendimento?
+    Estatistica de probabilidade
+        Solução:
+        * Analise do cliente
+            - Autorização de consulta de terceiros
+            - Cidade, bairro, regiao, moda de renda por bairro( Para classificar a classe social )
+            - Questionário Socio Economico 
+            - 
+
+
+    Tecnicas a ser utilizadas:
+
+        O sistema processará os seguintes dados:
+            - Certidao  de nascimento {
+                Data de nascimento
+
+            }
+            
+            - Certidao de casamento {
+
+            }
+
+            - Carteira de trabalho {
+
+            }
+
+            - RG
+
+            - CPF
+
+            - CNH
+
+            - Entrevista sócioeconomica {
+
+            }
+
+            - Comprovante de residencia {
+
+            }
+
+            - Caráter {
+                Emprestimos anteriores
+                Atuação na praça
+                Existencia de Restrições
+            }
+
+            - Capacidade {
+                Analise de score
+                habilidade de pagar
+            }
+
+            - Capital {
+                Potencial de producao monetáriaz
+            }
+6yyyyyyyyyyyyyyyyyyyy
+    Soluções:
+        * Integração do sistema de score do Serasa para verificação.
+
+
+
+
+PIT( 3:00 horas ):
+    Apresentador: Não definido
+

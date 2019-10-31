@@ -1,0 +1,65 @@
+Incorporadoras: Tegra, RJZ Cyrela, Performance,
+Imobiliária: BrasilBroken
+
+Tema 4 = - Como prever o risco de distrato ou inadimplência entre o lançamento e a entrega do empreendimento?
+    Estatistica de probabilidade
+        Solução:
+        * Analise do cliente
+            - Autorização de consulta de terceiros
+            - Cidade, bairro, regiao, moda de renda por bairro( Para classificar a classe social )
+            - Questionário Socio Economico 
+            - 
+
+
+    Tecnicas a ser utilizadas:
+
+        O sistema processará os seguintes dados:
+            - Certidao  de nascimento {
+                Data de nascimento
+
+            }
+            
+            - Certidao de casamento {
+
+            }
+
+            - Carteira de trabalho {
+
+            }
+
+            - RG
+
+            - CPF
+
+            - CNH
+
+            - Entrevista sócioeconomica {
+
+            }
+
+            - Comprovante de residencia {
+
+            }
+
+            - Caráter {
+                Emprestimos anteriores
+                Atuação na praça
+                Existencia de Restrições
+            }
+
+            - Capacidade {
+                Analise de score
+                habilidade de pagar
+            }
+
+            - Capital {
+                Potencial de producao monetáriaz
+            }
+    Soluções:
+        * Integração do sistema de score do Serasa para verificação.
+
+PIT( 3:00 horas ):
+    Apresentador: Não definido
+
+    Qual é a oportunidade?
+        
